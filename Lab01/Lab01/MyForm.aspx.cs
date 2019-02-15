@@ -33,6 +33,11 @@ namespace Lab01
 
         }
 
+        protected void Page_PreInit(object sender, EventArgs e)
+        {
+            Label2.Text += "<-PreInit"; //
+        }
+
         protected void Page_Desposed(object sender, EventArgs e)
         {
             Label2.Text += "<-Desposed";
@@ -46,6 +51,12 @@ namespace Lab01
             Label1.Text = s.Length.ToString();
             Label2.Text += "<-button";
 
+            this.Response.Write("<br>MashineName " + Environment.MachineName);
+            this.Response.Write("<br> OS Version " + Environment.OSVersion);
+            this.Response.Write("<br> ASP.NET Version" + Environment.Version.ToString());
+            this.Response.Write("<br> IP-address " + HttpContext.Current.Request.ServerVariables["LOCAL_ADDR"]);
+            this.Response.Write("<br> Объем памяти " + Environment.WorkingSet);
+            this.Response.Write("<br> Browser " + Request.Browser.Version);
 
         }
 
