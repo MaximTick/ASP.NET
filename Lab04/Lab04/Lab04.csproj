@@ -71,6 +71,7 @@
     <Content Include="MyCSSClass.css" />
     <Content Include="MyWebForm1.aspx" />
     <Content Include="MyWebForm2.aspx" />
+    <Content Include="MyWebForm3.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -88,11 +89,26 @@
     <Compile Include="MyWebForm2.aspx.designer.cs">
       <DependentUpon>MyWebForm2.aspx</DependentUpon>
     </Compile>
+    <Compile Include="MyWebForm3.aspx.cs">
+      <DependentUpon>MyWebForm3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MyWebForm3.aspx.designer.cs">
+      <DependentUpon>MyWebForm3.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site1.Master.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site1.Master.designer.cs">
+      <DependentUpon>Site1.Master</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="App_Themes\MyFirstSkin\MyFirstSkin.skin" />
     <None Include="packages.config" />
+    <Content Include="Site1.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
