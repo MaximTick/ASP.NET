@@ -13,5 +13,10 @@ namespace Lab05
         {
             Label1.Text += DateTime.Now.ToString() + "<br/>";
         }
+
+        protected static string GetDate(HttpContext context)
+        {
+            return "<br/>" + DateTime.Now.ToLongTimeString(); //вспе время будет обновляться
+        }
     }
 }
