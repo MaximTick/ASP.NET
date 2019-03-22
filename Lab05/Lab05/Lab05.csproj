@@ -72,6 +72,7 @@
     <Content Include="Form2.aspx" />
     <Content Include="Form3.aspx" />
     <Content Include="Form4.aspx" />
+    <Content Include="Form6.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
   </ItemGroup>
@@ -103,6 +104,13 @@
     </Compile>
     <Compile Include="Form4.aspx.designer.cs">
       <DependentUpon>Form4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Form6.aspx.cs">
+      <DependentUpon>Form6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Form6.aspx.designer.cs">
+      <DependentUpon>Form6.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

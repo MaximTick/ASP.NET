@@ -11,7 +11,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <asp:Label ID="Label1" runat="server" Text="DateTime Now: "></asp:Label
+            <asp:Label ID="Label1" runat="server" Text="DateTime Now: "></asp:Label>
             <asp:Substitution ID="Sx1" runat="server" MethodName="GetDate" />
         </div>
     </form>
