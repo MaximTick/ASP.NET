@@ -1,0 +1,9 @@
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\bin\Debug\WF_Client.exe.config
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\bin\Debug\WF_Client.exe
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\bin\Debug\WF_Client.pdb
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\obj\Debug\WF_Client.Properties.Resources.resources
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\obj\Debug\WF_Client.csproj.GenerateResource.cache
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\obj\Debug\WF_Client.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\obj\Debug\WF_Client.exe
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\obj\Debug\WF_Client.pdb
+C:\Users\maxim\source\repos\Lab06_WCF\WF_Client\obj\Debug\WF_Client.Form1.resources

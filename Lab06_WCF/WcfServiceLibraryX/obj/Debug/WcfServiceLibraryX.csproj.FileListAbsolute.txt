@@ -1,0 +1,6 @@
+C:\Users\maxim\source\repos\Lab06_WCF\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.dll.config
+C:\Users\maxim\source\repos\Lab06_WCF\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.dll
+C:\Users\maxim\source\repos\Lab06_WCF\WcfServiceLibraryX\bin\Debug\WcfServiceLibraryX.pdb
+C:\Users\maxim\source\repos\Lab06_WCF\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.csproj.CoreCompileInputs.cache
+C:\Users\maxim\source\repos\Lab06_WCF\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.dll
+C:\Users\maxim\source\repos\Lab06_WCF\WcfServiceLibraryX\obj\Debug\WcfServiceLibraryX.pdb
